@@ -24,7 +24,7 @@ public class PascalTriangle {
             pascal[i + 1] = 0;
             for (int j = 0; j <= i; j++) {
                 if (j == 0) {
-                    System.out.print("1");
+                    System.out.print("1 ");
                     pascal[j] = 1;
                     continue;
                 }
