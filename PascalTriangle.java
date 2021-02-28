@@ -1,3 +1,14 @@
+// Input integer n number for numbers of rows that needs to be printed.
+// Example with 4 rows: 
+//4
+//1 
+//1 1 
+//1 2 1 
+//1 3 3 1
+
+
+
+
 import java.util.Scanner;
 
 public class PascalTriangle {
